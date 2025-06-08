@@ -1,0 +1,2 @@
+Port: 1245
+Host: regular-assign.gl.at.ply.gg:1221
